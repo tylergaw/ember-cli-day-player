@@ -1,6 +1,11 @@
 # Ember-cli-day-player
 
-This README outlines the details of collaborating on this Ember addon.
+Ember-cli addon for creating placeholder images. WIP
+
+This is a port of the [Day Player Sketch Plugins](https://github.com/tylergaw/day-player).
+
+I made it mainly as a way to help me learn how to work build ember-cli addons,
+but maybe it'll be of use.
 
 ## Installation
 
